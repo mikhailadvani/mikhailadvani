@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes in-cluster traffic encryption using cert-manager](https://medium.com/@mikhail_advani/kubernetes-in-cluster-traffic-encryption-using-cert-manager-b70c2101a12d?source=rss-c032dade1a4b------2)
+- [One-off jobs on Kubernetes Nodes](https://medium.com/nntech/one-off-jobs-on-kubernetes-nodes-407128471456?source=rss-c032dade1a4b------2)
+- [Upgrading Kubernetes to 1.16](https://medium.com/@mikhail_advani/upgrading-kubernetes-to-1-16-b4d0168131e9?source=rss-c032dade1a4b------2)
+- [Adopting the career of an Infrastructure Automation Engineer](https://medium.com/@mikhail_advani/adopting-the-career-of-an-infrastructure-automation-engineer-5d978959c931?source=rss-c032dade1a4b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
